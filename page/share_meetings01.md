@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "第一次组会"
-categories: 组会
-tags:  见面 组会 2021-09-16
-author: 何杭
+layout: page
+title: About
+permalink: /test/
+icon: heart
+type: page
 ---
 
 
