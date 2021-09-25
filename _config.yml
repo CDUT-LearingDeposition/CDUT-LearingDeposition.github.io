@@ -7,7 +7,7 @@
 
 # Site settings
 title: 成都理工大学
-brief-intro: 深时多维
+brief-intro: 深时多维Lab
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "cdut-learingdeposition.github.io" # the base hostname & protocol for your site
 
