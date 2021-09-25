@@ -12,10 +12,10 @@
 ---
 
 layout: post
-title:  "TF-SWUFE Oracle Club 机器学习方向第X周分享会"
+title:  "XXXXXXXX"
 categories: 分享会
-tags:  机器学习 
-author: 伍佳伟
+tags:  小组会议 
+author: 何杭
 
 ---
 * content
