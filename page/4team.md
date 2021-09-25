@@ -11,9 +11,10 @@ type: page
 
 ## 教授
 
-- [马超](https://github.com/Demerara) 个人站点(https://libyunge.com/)
+- [马超](https://github.com/Demerara) [个人站点](https://libyunge.com/)
 - [郑栋宇](https://github.com/MudRocw1)
-## 团队成员
+
+## 成员
 
 | 姓名   | 性别 | 学历   | 专业(专业)         |
 | ------ | ---- | ------ | ------------------ |
