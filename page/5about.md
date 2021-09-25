@@ -11,7 +11,7 @@ type: page
 
 ## 关于我们
 
-成都理工大学审时刻多维Lab 
+成都理工大学审时多维Lab 
 
 xxxxxxxxxxxxxxx
 
