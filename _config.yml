@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Oracle Club AI
-brief-intro: 人工智能
+title: 成都理工大学
+brief-intro: 深时多维
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "cdut-learingdeposition.github.io" # the base hostname & protocol for your site
 
