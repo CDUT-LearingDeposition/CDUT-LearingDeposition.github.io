@@ -9,7 +9,7 @@
 title: Oracle Club AI
 brief-intro: 人工智能
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "OracleClubAI.github.io" # the base hostname & protocol for your site
+url: "cdut-learingdeposition.github.io/LearingDeposition.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
