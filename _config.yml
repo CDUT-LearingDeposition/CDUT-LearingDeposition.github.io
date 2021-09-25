@@ -9,21 +9,21 @@
 title: Oracle Club AI
 brief-intro: 人工智能
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "cdut-learingdeposition.github.io/LearingDeposition.github.io" # the base hostname & protocol for your site
+url: "cdut-learingdeposition.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: 
 facebook_username: 
-github_username: OracleClubAI
+github_username: LearningDeposition
 email: 
 weibo_username: 
 zhihu_username: 
 linkedIn_username: 
 dribbble_username:
 
-description_footer:  Oracle Club AI
+description_footer:   LearningDeposition Lab
 
 # comments
 # two ways to comment, only choose one, and use your own short name
