@@ -1,4 +1,4 @@
-# 西南财经大学天府学院机器学习方向博客
+# 成都理工大学深时多维实验室
 
 文章使用[Markdown语法编写](https://github.com/ChenQuan/README)
 
