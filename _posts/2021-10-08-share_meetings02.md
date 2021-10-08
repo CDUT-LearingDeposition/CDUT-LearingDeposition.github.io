@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "组会---大闸蟹的艺术"
+title:  "聚餐---大闸蟹的艺术"
 categories: 大闸蟹
 tags: 吃 聚餐 大闸蟹 组会
 author: 何杭
