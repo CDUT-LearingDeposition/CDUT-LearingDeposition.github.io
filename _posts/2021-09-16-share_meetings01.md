@@ -28,7 +28,6 @@ author: 何杭
 汇报顺序：1.李雪霜 2.崔馨月 3.何杭 4.侯立 5.白洁 6.黄天宇 7.周春花。
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Riffle_shuffle.jpg/320px-Riffle_shuffle.jpg)
 
 李雪霜：2:10-2:20pm
 上周进展：1.《地理空间数据本体、概念、技术方法与应用》。
