@@ -10,6 +10,6 @@ author: 何杭
 
 
 
-![图片1](https://github.com/CDUT-LearingDeposition/CDUT-LearingDeposition.github.io/blob/master/img/picture01.jpg)
+![图片1](/img/picture01.jpg)
 
-![图片2](https://github.com/CDUT-LearingDeposition/CDUT-LearingDeposition.github.io/blob/master/img/picture02.jpg)
+![图片2](/img/picture02.jpg)
