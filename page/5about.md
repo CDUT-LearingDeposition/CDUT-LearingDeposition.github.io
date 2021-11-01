@@ -11,11 +11,9 @@ type: page
 
 ## 关于我们
 
-成都理工大学深时多维Lab 
+深时Lab-成都理工大学
 
-xxxxxxxxxxxxxxx
 
-xxxxxxxxxxxxxxx
 
 
 
