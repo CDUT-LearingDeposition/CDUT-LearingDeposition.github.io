@@ -11,7 +11,7 @@ type: page
 
 ## 教授
 
-- [马超](https://github.com/Demerara) [个人站点](https://libyunge.com/)
+- [马超](https://github.com/Demerara) [个人站点](http://www.cjdzyjy.cdut.edu.cn/info/1170/2554.htm)
 - [郑栋宇](https://github.com/MudRocw1)
 
 ## 成员
