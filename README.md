@@ -1,4 +1,4 @@
-# 成都理工大学深时多维实验室
+# 深时Lab-成都理工大学
 
 文章使用[Markdown语法编写](https://github.com/ChenQuan/README)
 
