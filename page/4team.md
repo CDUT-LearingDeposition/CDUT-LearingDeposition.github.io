@@ -54,9 +54,17 @@ type: page
 
 ​	  爱生活，爱学习！
 
-​      勤运动，做自己！
+​   勤运动，做自己！
 
 ​	  就读于哈尔滨商业大学统计学专业，曾多次获得校级奖学金，能够熟练操作office，有较好的英语读写能力。
+
+​	Chun hua  Zhou
+
+​	Love life, love learning!
+
+​	Exercise and be myself!
+
+​	Majoring in statistics in Harbin University of Commerce, I have won university scholarships for many times. I am proficient in Office and have good English reading and writing skills.
 
 **侯立：**
 
