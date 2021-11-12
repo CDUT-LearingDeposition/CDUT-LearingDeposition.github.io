@@ -5,7 +5,7 @@ layout: post
 
 
 
-###            INTRODUCE:
+
 
 ​ &nbsp; &nbsp; &nbsp; &nbsp; The **DeepTimeLab** is led by Dr. Ma at Chengdu University of Technology. The lab’s mission is to decipher signals recorded by the sedimentary rock to reveal Earth evolution using data-driven methods and develop data analytical methods and tools. Our team members have different backgrounds including geology, planetary science, GIS, statistics, math and computer science. 
 
