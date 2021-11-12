@@ -59,6 +59,7 @@ type: page
 **侯立：**
 
 ​	 专业是电子信息专业，主要学习方向是计算机视觉。我对研究充满热情，创新能力较强，善于根据问题提出自己的解决方案。
+
 ​	 Li Hou: My major is electronic information, and my major direction is Computer Vision. I am passionate about research and have strong innovation ability. I am good at putting forward my own solutions according to problems.
 
 **张欣怡：**
