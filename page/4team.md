@@ -13,7 +13,7 @@ type: page
 
 - [马超](http://www.cjdzyjy.cdut.edu.cn/info/1170/2554.htm) [Chao Ma](https://github.com/Demerara) 
 
-## Associate Professor
+## 副教授 Associate Professor
 - [郑栋宇](https://github.com/MudRocw1)[Dongyu Zheng] 
 
 ## 成员 Member
