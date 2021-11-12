@@ -11,21 +11,23 @@ type: page
 
 ## 教授 Professor
 
-- [马超](https://github.com/Demerara) [个人站点](http://www.cjdzyjy.cdut.edu.cn/info/1170/2554.htm)
-- [郑栋宇](https://github.com/MudRocw1)
+- [马超](http://www.cjdzyjy.cdut.edu.cn/info/1170/2554.htm) [Chao Ma](https://github.com/Demerara) 
+
+## Associate Professor
+- [郑栋宇](https://github.com/MudRocw1)[Dongyu Zheng] 
 
 ## 成员 Member
 
-| 姓名 Name  |    | 专业(专业) Major        |
+| 姓名 Name  |    | 专业 Major        |
 | ------ | ------ | ------------------ |
-| 何杭 Hang He     | 研究生 Graduate student | 电子信息  EE         |
-| 黄天宇 Tianyu Huang    | 研究生 Graduate student | 信息与计算科学 C     |
-| 李雪霜 Xueshuang Li  | 研究生 Graduate student| 地质学             |
-| 候立 Li Hou    | 研究生 Graduate student| 电子信息           |
-| 白洁 Jie Bai    | 研究生 Graduate student| 沉积地质学         |
-| 周春花 Chunhua Zhou   | 研究生 Graduate student| 应用统计           |
-| 张欣怡 Xinyi Zhang   | 本科生 Undergraduate| 应用统计学         |
-| 崔馨月 Xinyue Cui   | 本科生 Undergraduate| 行星科学           |
+| 何  杭 Hang He     | 研究生 Graduate student | 电子信息  EE         |
+| 黄天宇 Tianyu Huang    | 研究生 Graduate student | 数学地质 Mathmetical Geology     |
+| 李雪霜 Xueshuang Li  | 研究生 Graduate student| 地信/地质学  GIS/Geology           |
+| 候  立 Li Hou    | 研究生 Graduate student| 电子信息 EE          |
+| 白  洁 Jie Bai    | 研究生 Graduate student| 沉积地质学 Sedimentary Geology        |
+| 周春花 Chunhua Zhou   | 研究生 Graduate student| 应用统计 Applied Statistics          |
+| 张欣怡 Xinyi Zhang   | 本科生 Undergraduate| 应用统计 Applied Statistics        |
+| 崔馨月 Xinyue Cui   | 本科生 Undergraduate| 行星科学 Planetary Science          |
 
 
 
