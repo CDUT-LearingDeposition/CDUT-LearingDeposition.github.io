@@ -67,7 +67,7 @@ An undergraduate from the Planetary Science Talented Class of Department of Eart
 
 ​	Exercise and be myself!
 
-​	Majoring in statistics in Harbin University of Commerce, she won university scholarships for many times. She is proficient in Office and have good English reading and writing skills.
+​	Majoring in statistics in Harbin University of Commerce, she won university scholarships for many times. She is proficient in R, SPSS and have good English reading and writing skills.
 
 **侯立：**
 
