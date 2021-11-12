@@ -38,7 +38,7 @@ type: page
 
 ​	   本科就读于成都理工大学数理学院信息与计算科学专业，曾经参加过美国大学生数学建模竞赛，MathorCup数学建模挑战赛和中青杯数学建模大赛，大学生创新创业省级立项，两次获得国家励志奖学金，学分绩点3.5，目前在学习地质大数据方向，
 
-​	    Tianyu Huang，Undergraduate study in chengdu university of technology institute of mathematical information and computing science specialty, once participated in the college students' mathematical modeling competition, MathorCup mathematical modeling challenge and middle cup mathematical modeling competition, college students' innovative undertaking projects at the provincial level, two national motivational scholarships, credit grade point 3.5, the current direction in the study of geological data。
+​	    Tianyu Huang. Her undergraduate was majoring in Information and Computing Science. During her undergraduate，she participated in  many competitions，such as China Undergraduate Mathematical Contest in Modeling，MathorCup Mathematical Contest In Modeling and National College Student Innovation and Entrepreneurship Training Program.She had excellent grades in college, with a grade point of 3.5, and won the National Encouragement Scholarship twice. At present, her research area is data-driven discovery in Earth science.
 
 **何杭：**
 
