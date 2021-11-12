@@ -32,7 +32,7 @@ type: page
 
 
 
-## 成员介绍
+## 成员介绍 Member Introduction
 
 **黄天宇：**
 
